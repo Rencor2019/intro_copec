@@ -1,0 +1,14 @@
+h1{
+   color:red
+
+  }
+  img{
+    width: 300px;
+    heigth: 250px;
+  }
+#green_info{
+  background-color: green;
+}
+.yellow_content{
+  background-color: blue;
+}
